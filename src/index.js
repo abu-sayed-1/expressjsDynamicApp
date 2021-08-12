@@ -37,5 +37,5 @@ app.get("*", (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log("server listen by 4000")
+    console.log("server listen by 4000..")
 })
